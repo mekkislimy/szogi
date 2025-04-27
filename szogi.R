@@ -15,3 +15,5 @@ print(paste("Az átlagos eladás:", average_sales))
 
 best_selling <- sales_data$product[which.max(sales_data$sales)]
 print(paste("A legjobban fogyó termék:", best_selling))
+
+#github oldálán írok
